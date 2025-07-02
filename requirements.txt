@@ -1,5 +1,0 @@
-streamlit
-nltk
-scikit-learn
-transformers
-sentence-transformers
